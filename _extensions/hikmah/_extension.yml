@@ -1,5 +1,5 @@
 title: Hikma
-author: Andrew Heiss
+author: Trym Nohr Fjørtoft 
 version: 0.0.1
 contributes:
   formats:
@@ -20,6 +20,9 @@ contributes:
         - left=11pc    # 11p0
         - right=11pc   # 11p0
         - heightrounded
+      mainfont: Charter
+      sansfont: IBM Plex Sans
+      monofont: Inconsolata
       
       # Citations and links
       colorlinks: true
